@@ -1,0 +1,11 @@
+Bird ID,Age (Weeks),Breed,Initial Weight (Grams),Final Weight (Grams),Feed Intake (Grams/Week)
+1001,3,Leghorn,520,650,380
+1002,4,Cornish Cross,600,820,450
+1003,2,Rhode Island Red,480,600,350
+1004,5,Plymouth Rock,550,700,420
+1005,3,Australorp,490,630,390
+1006,4,Wyandotte,580,780,430
+1007,2,Barred Plymouth Rock,470,590,320
+1008,5,Jersey Giant,620,800,480
+1009,3,Buff Orpington,500,640,370
+1010,4,Delaware,590,750,410
